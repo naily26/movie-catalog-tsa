@@ -1,16 +1,14 @@
 # movie_catalog_app
 
-A new Flutter project.
 
-## Getting Started
+## Hasil Running
 
-This project is a starting point for a Flutter application.
+### Mengkoneksikan Aplikasi Flutter ke themoviedb dengan package http 
 
-A few resources to get you started if this is your first Flutter project:
+![screenshoot movie_catalog_app](images/output_1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Movie List
+![screenshoot movie_catalog_app](images/output_2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Movie Detail
+![screenshoot movie_catalog_app](images/output_3.png)
